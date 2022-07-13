@@ -8,3 +8,8 @@
 
 # 服务端git
 https://github.com/jenonWu/hyperfWebWeChat
+
+# 账号密码
+  后台：admin  admin123 <br/>
+  用户1：15913137111   123123<br/>
+  用户2：15913137222   123123<br/>
